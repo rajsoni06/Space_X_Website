@@ -501,6 +501,7 @@ footer ul li a:hover {
 }
 
 .footer-content {
-    font-size: 15px; /* Adjust the font size as needed */
+    font-size: 15px;
+  color: #000; /* Adjust the font size as needed */
 }
 }
